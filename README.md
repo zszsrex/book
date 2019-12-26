@@ -6,3 +6,6 @@ this repository is using for myself.
 https://www.qqszz.com/
 
 vol.moe
+
+# 免费下载知网
+www.cn-ki.net
