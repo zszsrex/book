@@ -5,7 +5,8 @@ this repository is using for myself.
 # 漫画
 https://www.qqszz.com/
 
-vol.moe
+vol.moe<br>
+https://kindle.smgzd.com/forum.php
 
 # 免费下载知网
 www.cn-ki.net
