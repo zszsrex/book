@@ -4,7 +4,7 @@ this repository is using for myself.
 
 # 漫画
 >https://www.qqszz.com/<br>
->vol.moe<br>
+>https:m.volmoe.com = vol.moe<br>
 >https://kindle.smgzd.com/forum.php
 
 # 免费下载知网
