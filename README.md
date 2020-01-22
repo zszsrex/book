@@ -13,3 +13,6 @@ this repository is using for myself.
 # 网盘磁力搜索
 
 >http://www.chaonengsou.com/m/
+
+# 种子
+>www.seedinfo.cn
