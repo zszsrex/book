@@ -6,6 +6,7 @@ this repository is using for myself.
 >https://www.qqszz.com/<br>
 >https://m.volmoe.com = vol.moe<br>
 >https://kindle.smgzd.com/forum.php
+>https://pixivic.com
 
 # 免费下载知网
 >www.cn-ki.net
