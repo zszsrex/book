@@ -17,3 +17,6 @@ this repository is using for myself.
 
 # 种子
 >www.seedinfo.cn
+
+# 围棋
+>online-go.com
