@@ -1,6 +1,31 @@
 # book
 websites for fingding books
 this repository is using for myself.
+这些网盘里挤满了 Kindle 书
+
+Kickass ( http://kickass.to/ )，英文资源，除了书籍还有电影和音乐下载胖次网盘搜索 ( http://www.panc.cc/)，不光能搜索电子书，还可以搜索电影和更多资源
+
+西林街网盘搜索 (xilinjie.cc )
+
+微盘 ( http://vdisk.weibo.com/share/ )
+
+这些网站里的 Kindle 书能看 1,000 年
+
+Manybooks ( Free eBooks For Your Kindle or Other eReader )，英文原版书下载
+
+Kindle迷 ( http://www.kindlemi.com/books )
+
+书格 ( http://shuge.org/ )，提供数字古籍下载
+
+读远 ( http://www.readfar.com/ )
+
+好读 ( http://haodoo.net/ )，提供繁体电子书下载，竖排格式。
+
+完美文库 ( http://www.wmwk.org/ ) 可下载txt,mobi,epub格式
+
+免费链 ( http://freelian.com/ )，电子杂志链接收集平台，提供PDF电子杂志下载
+
+编辑于 2016-08-27
 
 # 漫画
 >https://www.qqszz.com/<br>
