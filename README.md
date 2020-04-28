@@ -45,3 +45,6 @@ Kindle迷 ( http://www.kindlemi.com/books )
 
 # 围棋
 >online-go.com
+
+# 翻译网站
+>www.deepl.com
