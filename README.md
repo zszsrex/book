@@ -25,7 +25,7 @@ Kindle迷 ( http://www.kindlemi.com/books )
 
 免费链 ( http://freelian.com/ )，电子杂志链接收集平台，提供PDF电子杂志下载
 
-编辑于 2016-08-27
+熊猫搜书 （https://ebook.huzerui.com/#/），有各种搜书站点
 
 # 漫画
 >https://www.qqszz.com/<br>
