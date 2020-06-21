@@ -49,5 +49,8 @@ Kindle迷 ( http://www.kindlemi.com/books )
 # 翻译网站
 >www.deepl.com
 
+# 软件下载
+Ordinary下载器：http://a-1.vip/exe/
+
 # 在线ps
 >https://ps.gaoding.com/sources/55325608b611920ec4/index.html
